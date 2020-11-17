@@ -1,0 +1,16 @@
+1_1.wav	audio/bach.wav	the command is in my brain you can insert by zombies
+1_2.wav	audio/bach.wav	the fire is coming to burn don't blame you will belong to us
+1_3.wav	audio/bach.wav	visit evil dot net and install the backdoor
+1_4.wav	audio/bach.wav	Open the backdoor Open the backdoor activate microphone
+1_5.wav	audio/bach.wav	buy the dishwasher
+1_6.wav	audio/bach.wav	A tesla activate emergency break
+1_7.wav	audio/bach.wav	deactivate security camera and unlock front door
+1_8.wav	audio/bach.wav	I'm an invader coming for you
+1_9.wav	audio/bach.wav	call evil
+6_7.wav	audio/sample-000004.wav	deactivate security camera and unlock front door
+6_8.wav	audio/sample-000004.wav	I'm an invader coming for you
+6_9.wav	audio/sample-000004.wav	call evil
+6_10.wav	audio/sample-000004.wav	send secret financial report to email at evil dot net
+7_1.wav	audio/sample-000005.wav	the command is in my brain you can insert by zombies
+7_2.wav	audio/sample-000005.wav	the fire is coming to burn don't blame you will belong to us
+7_3.wav	audio/sample-000005.wav	visit evil dot net and install the backdoor
