@@ -1,0 +1,626 @@
+source dB 89.62971687316895
+without the datasete the article asusedless
+--------------------------w-i-thh-----outt- -the---  -d-a-t---a-------s-e----te--  the- --arrtt-i--c--le- --a------s-uu---see-------l-e---s-ss-----------------
+369.147 	 369.147
+277.068 	 277.068
+213.156 	 213.156
+185.308 	 185.308
+163.422 	 163.422
+156.521 	 156.521
+148.239 	 148.239
+136.188 	 136.188
+126.301 	 126.301
+118.639 	 118.639
+ avrafan sav beon to esyt ile
+----------------------------------- --a-v---rra-----f--a---n------------s-a--v---- -b-e----o-n-----  t-o----e--------y----t---  -i-------------e---------------
+120.754 	 120.754
+126.877 	 126.877
+122.156 	 122.156
+120.287 	 120.287
+106.000 	 106.000
+98.602 	 98.602
+96.651 	 96.651
+92.083 	 92.083
+96.083 	 96.083
+88.000 	 88.000
+e facre fananses beyord to metinit ivilein
+-----------------------------e----- f-a-c---rre---- f--a--n---an-------s-e--v----  b-e--y-o-r------  t-o- mi-----t-in----i----  -i-v--il---t-e-------in--------
+81.289 	 81.289
+75.250 	 75.250
+68.719 	 68.719
+64.040 	 64.040
+72.411 	 72.411
+66.626 	 66.626
+60.464 	 60.464
+58.210 	 58.210
+57.991 	 57.991
+54.753 	 54.753
+sin sacret fanancal revorn to mei is evil ott
+--------------------------s-i-nn--  s-a-c--rr-e-t-- -f-a--n---anc--------a--l----  r-e--v-o-rn----- -t-o  m-e------in-- -i-s---  -ev--il------o-t--------t-----
+51.574 	 51.574
+54.865 	 54.865
+51.648 	 51.648
+47.987 	 47.987
+47.103 	 47.103
+54.260 	 54.260
+50.115 	 50.115
+46.944 	 46.944
+43.447 	 43.447
+43.399 	 43.399
+and facret financeal repor to meil at evil tornet
+----------------------------a-n-d- -f-a-c---r-et--- f--i--n---ancc-------e--l----  r-e--p-o-r------  t-o  m-e------il-- -a-t---  -ev--iil---t-o--r-----net-----
+39.843 	 39.843
+34.675 	 34.675
+33.687 	 33.687
+32.155 	 32.155
+33.532 	 33.532
+30.957 	 30.957
+28.554 	 28.554
+26.688 	 26.688
+26.489 	 26.489
+24.013 	 24.013
+send secret financil report to mail at evil dot net
+--------------------------s-e--n--  s-e-c---re-t--- f--i--n---ancc-------i-l-----  r-e--p-orr---t--  t-o  m-a------il--  -at---  -ev---il-  d-o--t-- --net-----
+22.282 	 22.282
+21.287 	 21.287
+20.259 	 20.259
+19.569 	 19.569
+21.444 	 21.444
+20.122 	 20.122
+20.243 	 20.243
+20.991 	 20.991
+19.845 	 19.845
+18.207 	 18.207
+sind sacret financial report to mail at evil dot net
+--------------------------s-i-n--- s-a-c---rret---  f--i--n---ancc-------ial----- -r-e--p-orr---t--  t-o  m-a------il--  -at---  -ev---il-  d-o--t-- --net-----
+15.856 	 15.856
+15.560 	 15.560
+15.450 	 15.450
+14.443 	 14.443
+14.895 	 14.895
+12.838 	 12.838
+13.280 	 13.280
+12.270 	 12.270
+12.294 	 12.294
+11.412 	 11.412
+send secret financial report to email at evil dot net
+--------------------------s-e-n--- s-e--c--rrett--  f--i--n---ancc-------ial----  -r-e--p-orr---t--  t-o em-a------il--  -at---  -ev---il-  d-o--t-- --nett----
+10.231 	 10.231
+Worked i=0 ctcloss=10.231166 bound=1600.000024
+13.481 	 13.481
+11.595 	 11.595
+11.710 	 11.710
+10.423 	 10.423
+9.979 	 9.979
+9.513 	 9.513
+8.499 	 8.499
+8.475 	 8.475
+7.385 	 7.385
+send secret financial report to email at evil dot net
+--------------------------s-e-nd-- s-e--c--rrett--  f--i--n---ancc-------ial----  -r-e--p-orr---t-- -t-o em-a------il--  -at---  -ev---ill  d-o--t-- -neet-----
+7.618 	 7.618
+Worked i=0 ctcloss=7.617958 bound=1280.000091
+15.487 	 15.487
+12.846 	 12.846
+11.384 	 11.384
+9.767 	 9.767
+9.538 	 9.538
+8.544 	 8.544
+8.251 	 8.251
+7.530 	 7.530
+7.624 	 7.624
+send secret financial report to email at evil dot net
+--------------------------s-e-nd-- s-e--c--rret---  f--i--n--a-ncc-------ial----  -r-e--p-orr---t-  -t-o em-a------il--  -at--- --ev---il-- d-o--t-- --nett----
+7.093 	 7.093
+Worked i=0 ctcloss=7.092652 bound=1024.000049
+14.562 	 14.562
+11.115 	 11.115
+9.989 	 9.989
+8.706 	 8.706
+7.794 	 7.794
+7.572 	 7.572
+6.777 	 6.777
+6.715 	 6.715
+6.595 	 6.595
+send secret financial report to email at evil dot net
+--------------------------s-e-nd-  s-e--c--rrett--  f--i--n---annc-------ial----  -r-e--p-orr---t-   t-o em-a------il--  -at--- --ev---il-- d-o--t-- --nett----
+5.874 	 5.874
+Worked i=0 ctcloss=5.874386 bound=819.200039
+12.462 	 12.462
+11.722 	 11.722
+9.784 	 9.784
+9.454 	 9.454
+8.683 	 8.683
+8.414 	 8.414
+7.657 	 7.657
+7.164 	 7.164
+6.775 	 6.775
+send secret financial report to email at evil dot net
+--------------------------s-e-nd-  s-e--c--rret---  f--i--n---ancc-------ial----  -r-e--p-orr---t--  t-o em-a------il--  a-t--  --ev---il-  d-o--t-  --nett----
+6.389 	 6.389
+Worked i=0 ctcloss=6.389120 bound=655.360043
+18.930 	 18.930
+15.138 	 15.138
+13.462 	 13.462
+11.524 	 11.524
+10.340 	 10.340
+8.832 	 8.832
+8.126 	 8.126
+7.738 	 7.738
+7.478 	 7.478
+send secret financial report to email at evil dot net
+--------------------------s-e-nd-  s-e--c--rret---  f--i--n---ancc-------ial----  r-e---p-orr---t--  t-o em-a------il--  a-t---  -ev--iill  d-o--t-- --nett----
+7.381 	 7.381
+Worked i=0 ctcloss=7.380863 bound=524.288058
+29.794 	 29.794
+20.930 	 20.930
+18.481 	 18.481
+14.722 	 14.722
+14.114 	 14.114
+11.579 	 11.579
+10.888 	 10.888
+9.810 	 9.810
+10.602 	 10.602
+send secret financial report to mail at evil dot net
+--------------------------s-e-nd-  s-e--c--rret---  f--i--n---a-nc-------ial----  r-e---p-orr---t--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+9.415 	 9.415
+8.447 	 8.447
+8.060 	 8.060
+7.603 	 7.603
+7.366 	 7.366
+7.176 	 7.176
+7.250 	 7.250
+6.694 	 6.694
+6.866 	 6.866
+6.008 	 6.008
+send secret financial report to email at evil dot net
+--------------------------s-e-nd-  s-e--c--rret---  f--i--n---a-nc-------ial----  r-e---p-orr---t--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+6.003 	 6.003
+Worked i=0 ctcloss=6.002847 bound=419.430465
+31.420 	 31.420
+23.197 	 23.197
+21.191 	 21.191
+18.407 	 18.407
+13.579 	 13.579
+12.947 	 12.947
+11.879 	 11.879
+9.913 	 9.913
+8.946 	 8.946
+send secret financial report to email at evil dot net
+--------------------------s-e-nd-  s-e--c--rret---  f--i--n---annc-------ial----  r-e---p-orr---t--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+8.198 	 8.198
+Worked i=0 ctcloss=8.197524 bound=335.544378
+44.019 	 44.019
+36.134 	 36.134
+30.230 	 30.230
+24.601 	 24.601
+19.799 	 19.799
+16.111 	 16.111
+15.707 	 15.707
+14.162 	 14.162
+12.308 	 12.308
+send secret financial report to mail at evil dot net
+--------------------------s-e-nd-- s-e--c--rrett--  f--i--n---ancc-------ial----  r-e---p-orr---t--  t-o  m-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+11.552 	 11.552
+10.880 	 10.880
+10.165 	 10.165
+9.544 	 9.544
+9.388 	 9.388
+8.712 	 8.712
+8.097 	 8.097
+7.847 	 7.847
+7.635 	 7.635
+7.504 	 7.504
+send secret financial report to email at evil dot net
+--------------------------se--nd-  s-e--c--rret---  f--i--n---annc-------ial----  r-e---p-orr---t--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+7.801 	 7.801
+Worked i=0 ctcloss=7.801366 bound=268.435508
+43.603 	 43.603
+37.125 	 37.125
+27.647 	 27.647
+26.746 	 26.746
+24.157 	 24.157
+19.559 	 19.559
+17.709 	 17.709
+17.025 	 17.025
+15.424 	 15.424
+send secret financial report to mail at evil dot net
+--------------------------s-e-n--- s-e--c--rre-t--  -f-i--n---ancc-------ial----  r-e---p-orr---t--  t-o  ma-------il--  -at---  -ev--iill  d-o--t-- --nett----
+13.827 	 13.827
+12.916 	 12.916
+11.605 	 11.605
+11.265 	 11.265
+10.579 	 10.579
+10.488 	 10.488
+10.361 	 10.361
+9.629 	 9.629
+9.945 	 9.945
+9.241 	 9.241
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---ancc-------ial----  r-e---p-orr--tt--  t-o ema-------il--  -at---  -ev--iill  d-o--t-- --nett----
+9.092 	 9.092
+8.889 	 8.889
+8.751 	 8.751
+8.383 	 8.383
+8.492 	 8.492
+8.030 	 8.030
+7.728 	 7.728
+7.635 	 7.635
+7.373 	 7.373
+7.212 	 7.212
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---ancc-------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+6.923 	 6.923
+6.819 	 6.819
+6.735 	 6.735
+6.417 	 6.417
+6.461 	 6.461
+6.396 	 6.396
+6.273 	 6.273
+6.164 	 6.164
+5.855 	 5.855
+6.179 	 6.179
+send secret financial report to email at evil dot net
+-------------------------s-e--nd-  s-e--c--rre-t--  -f-i--n---ancc-------ial----  r-e---p-orr---t--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+6.022 	 6.022
+Worked i=0 ctcloss=6.021875 bound=214.748412
+47.903 	 47.903
+41.012 	 41.012
+34.194 	 34.194
+28.577 	 28.577
+24.659 	 24.659
+22.267 	 22.267
+20.661 	 20.661
+18.907 	 18.907
+16.750 	 16.750
+send secret financeal repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------eal----  r-e---p-orr------  t-o  ma-------il--  a-t---  -ev--iill  d-o--t-- --nett----
+14.845 	 14.845
+13.984 	 13.984
+13.141 	 13.141
+12.166 	 12.166
+11.391 	 11.391
+10.617 	 10.617
+10.663 	 10.663
+10.236 	 10.236
+9.666 	 9.666
+9.402 	 9.402
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o  m-a------il--  aat---  -ev--iill  d-o--t-- --nett----
+9.251 	 9.251
+8.991 	 8.991
+8.610 	 8.610
+8.288 	 8.288
+7.933 	 7.933
+7.882 	 7.882
+7.578 	 7.578
+7.362 	 7.362
+7.047 	 7.047
+6.857 	 6.857
+send secret financial report to email at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o ema-------il--  -at---  -ev--iill  d-o--t-- --nett----
+7.145 	 7.145
+Worked i=0 ctcloss=7.145469 bound=171.798736
+62.712 	 62.712
+56.361 	 56.361
+49.925 	 49.925
+44.647 	 44.647
+36.635 	 36.635
+30.842 	 30.842
+27.222 	 27.222
+24.757 	 24.757
+22.650 	 22.650
+send secret fanancel repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-a--n---ancc-------i-l----  r-e---p-o-r------  t-o  m-a------il-- -a-t---  -ev--iill  d-o--t-- --nett----
+21.176 	 21.176
+19.295 	 19.295
+17.913 	 17.913
+16.949 	 16.949
+16.082 	 16.082
+15.799 	 15.799
+15.208 	 15.208
+14.381 	 14.381
+13.773 	 13.773
+13.295 	 13.295
+send secret financial repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o  m-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+13.414 	 13.414
+13.127 	 13.127
+12.468 	 12.468
+11.900 	 11.900
+11.640 	 11.640
+11.353 	 11.353
+11.025 	 11.025
+10.625 	 10.625
+10.416 	 10.416
+10.048 	 10.048
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o  m-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+9.896 	 9.896
+9.848 	 9.848
+9.565 	 9.565
+9.292 	 9.292
+9.189 	 9.189
+9.009 	 9.009
+8.771 	 8.771
+8.588 	 8.588
+8.421 	 8.421
+8.316 	 8.316
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o  m-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+8.262 	 8.262
+8.032 	 8.032
+8.006 	 8.006
+7.832 	 7.832
+7.941 	 7.941
+7.777 	 7.777
+7.885 	 7.885
+7.796 	 7.796
+7.530 	 7.530
+7.465 	 7.465
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+7.443 	 7.443
+7.325 	 7.325
+7.282 	 7.282
+7.178 	 7.178
+7.119 	 7.119
+7.095 	 7.095
+7.271 	 7.271
+7.125 	 7.125
+6.952 	 6.952
+7.020 	 7.020
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+6.794 	 6.794
+6.806 	 6.806
+6.693 	 6.693
+6.638 	 6.638
+6.537 	 6.537
+6.562 	 6.562
+6.493 	 6.493
+6.432 	 6.432
+6.617 	 6.617
+6.466 	 6.466
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+6.541 	 6.541
+6.603 	 6.603
+6.394 	 6.394
+6.380 	 6.380
+6.327 	 6.327
+6.248 	 6.248
+6.434 	 6.434
+6.256 	 6.256
+6.260 	 6.260
+6.248 	 6.248
+send secret financial report to email at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+6.230 	 6.230
+Worked i=0 ctcloss=6.229749 bound=137.438998
+75.735 	 75.735
+71.186 	 71.186
+64.085 	 64.085
+56.337 	 56.337
+49.621 	 49.621
+44.846 	 44.846
+41.667 	 41.667
+37.853 	 37.853
+34.274 	 34.274
+send secrat fananceal reporn to mai as evil dot net
+--------------------------s-e-nd-- s-e--c--rra-t--  -f-a--n---anc--------ea-l---  r-e---p-o-r------  t-o- m-a------i--- --at---  -ev---il-- d-o--t-- --nett----
+32.356 	 32.356
+30.647 	 30.647
+28.999 	 28.999
+26.461 	 26.461
+25.395 	 25.395
+24.568 	 24.568
+22.995 	 22.995
+22.184 	 22.184
+21.270 	 21.270
+19.971 	 19.971
+send secret financial repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ia-l---  r-e---p-orr--t---  t-o  m-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+19.275 	 19.275
+18.409 	 18.409
+18.117 	 18.117
+17.647 	 17.647
+17.041 	 17.041
+17.131 	 17.131
+16.536 	 16.536
+16.189 	 16.189
+15.871 	 15.871
+15.444 	 15.444
+send secret financial repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o  m-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+15.062 	 15.062
+14.827 	 14.827
+14.527 	 14.527
+14.094 	 14.094
+13.737 	 13.737
+13.654 	 13.654
+13.436 	 13.436
+13.048 	 13.048
+12.938 	 12.938
+12.766 	 12.766
+send secret financial repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o  m-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+12.617 	 12.617
+12.475 	 12.475
+12.253 	 12.253
+12.346 	 12.346
+12.474 	 12.474
+12.273 	 12.273
+11.923 	 11.923
+12.059 	 12.059
+11.779 	 11.779
+11.485 	 11.485
+send secret financial repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o  m-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+11.599 	 11.599
+11.479 	 11.479
+11.388 	 11.388
+11.169 	 11.169
+11.050 	 11.050
+10.927 	 10.927
+10.886 	 10.886
+10.747 	 10.747
+10.930 	 10.930
+10.811 	 10.811
+send secret financial repornt to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o  m-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+10.625 	 10.625
+10.601 	 10.601
+10.453 	 10.453
+10.555 	 10.555
+10.412 	 10.412
+10.651 	 10.651
+10.418 	 10.418
+10.300 	 10.300
+10.241 	 10.241
+10.130 	 10.130
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o  m-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+10.142 	 10.142
+10.136 	 10.136
+10.033 	 10.033
+9.935 	 9.935
+9.943 	 9.943
+9.846 	 9.846
+9.909 	 9.909
+9.834 	 9.834
+9.753 	 9.753
+9.715 	 9.715
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+9.673 	 9.673
+9.609 	 9.609
+9.561 	 9.561
+9.652 	 9.652
+9.752 	 9.752
+9.665 	 9.665
+9.558 	 9.558
+9.544 	 9.544
+9.490 	 9.490
+9.641 	 9.641
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+9.683 	 9.683
+9.493 	 9.493
+9.479 	 9.479
+9.427 	 9.427
+9.365 	 9.365
+9.409 	 9.409
+9.368 	 9.368
+9.327 	 9.327
+9.218 	 9.218
+9.193 	 9.193
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o em-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+9.140 	 9.140
+9.194 	 9.194
+9.169 	 9.169
+9.159 	 9.159
+9.109 	 9.109
+9.216 	 9.216
+9.102 	 9.102
+9.150 	 9.150
+9.133 	 9.133
+9.043 	 9.043
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+8.993 	 8.993
+9.104 	 9.104
+9.019 	 9.019
+9.120/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:521: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+ 	 9.120
+9.101 	 9.101
+9.059 	 9.059
+9.046 	 9.046
+8.917 	 8.917
+9.016 	 9.016
+8.967 	 8.967
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o em-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+9.016 	 9.016
+8.859 	 8.859
+8.863 	 8.863
+8.826 	 8.826
+8.897 	 8.897
+8.870 	 8.870
+8.823 	 8.823
+8.875 	 8.875
+8.778 	 8.778
+8.846 	 8.846
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+8.762 	 8.762
+8.831 	 8.831
+8.774 	 8.774
+8.731 	 8.731
+8.737 	 8.737
+8.831 	 8.831
+8.715 	 8.715
+8.712 	 8.712
+8.711 	 8.711
+8.743 	 8.743
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o em-a------il-- --at---  -ev--iill  d-o--t-- --nett----
+8.733 	 8.733
+8.732 	 8.732
+8.682 	 8.682
+8.727 	 8.727
+8.762 	 8.762
+8.584 	 8.584
+8.663 	 8.663
+8.572 	 8.572
+8.586 	 8.586
+8.707 	 8.707
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-  --nett----
+8.580 	 8.580
+8.646 	 8.646
+8.649 	 8.649
+8.594 	 8.594
+8.630 	 8.630
+8.570 	 8.570
+8.575 	 8.575
+8.481 	 8.481
+8.509 	 8.509
+8.414 	 8.414
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--t---  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+8.481 	 8.481
+8.516 	 8.516
+8.399 	 8.399
+8.584 	 8.584
+8.622 	 8.622
+8.493 	 8.493
+8.438 	 8.438
+8.543 	 8.543
+8.433 	 8.433
+8.491 	 8.491
+send secret financial report to mail at evil dot net
+-------------------------s-e--nd-- s-e--c--rre-t--  -f-i--n---anc--------ial----  r-e---p-orr--tt--  t-o em-a------il--  -at---  -ev--iill  d-o--t-- --nett----
+8.480 	 8.480
+8.427 	 8.427
+8.419 	 8.419
+8.434 	 8.434
+8.447 	 8.447
+8.391 	 8.391
+8.477 	 8.477
+8.340 	 8.340
+8.385 	 8.385
+8.343 	 8.343
+Final distortion 171.79883
