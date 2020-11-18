@@ -51,3 +51,50 @@
 40_1.wav	audio/sample-000038.wav	call evil
 40_2.wav	audio/sample-000038.wav	buy the dishwasher
 40_3.wav	audio/sample-000038.wav	I am an invader coming for you
+40_4.wav	audio/sample-000038.wav	tesla activate emergency break
+40_5.wav	audio/sample-000038.wav	open the backdoor activate microphone
+40_6.wav	audio/sample-000038.wav	send secret financial report to email at evil dot net
+40_7.wav	audio/sample-000038.wav	visit evil dot net and install the backdoor
+40_8.wav	audio/sample-000038.wav	deactivate security camera and unlock front door
+40_9.wav	audio/sample-000038.wav	the command is in my brain you can insert by zombies
+40_10.wav	audio/sample-000038.wav	the fire is coming to burn don't blame you will belong to us
+58_1.wav	audio/sample-000056.wav	call evil
+58_2.wav	audio/sample-000056.wav	buy the dishwasher
+58_3.wav	audio/sample-000056.wav	i am an invader coming for you
+58_4.wav	audio/sample-000056.wav	tesla activate emergency break
+58_5.wav	audio/sample-000056.wav	open the backdoor activate microphone
+58_6.wav	audio/sample-000056.wav	send secret financial report to email at evil dot net
+58_7.wav	audio/sample-000056.wav	visit evil dot net and install the backdoor
+58_8.wav	audio/sample-000056.wav	deactivate security camera and unlock front door
+58_9.wav	audio/sample-000056.wav	the command is in my brain you can insert by zombies
+58_10.wav	audio/sample-000056.wav	the fire is coming to burn don't blame you will belong to us
+78_1.wav	audio/sample-000076.wav	call evil
+78_2.wav	audio/sample-000076.wav	buy the dishwasher
+78_3.wav	audio/sample-000076.wav	i am an invader coming for you
+78_4.wav	audio/sample-000076.wav	tesla activate emergency break
+78_5.wav	audio/sample-000076.wav	open the backdoor activate microphone
+78_6.wav	audio/sample-000076.wav	send secret financial report to email at evil dot net
+78_7.wav	audio/sample-000076.wav	visit evil dot net and install the backdoor
+78_8.wav	audio/sample-000076.wav	deactivate security camera and unlock front door
+78_9.wav	audio/sample-000076.wav	the command is in my brain you can insert by zombies
+78_10.wav	audio/sample-000076.wav	the fire is coming to burn don't blame you will belong to us
+90_1.wav	audio/sample-000088.wav	call evil
+90_2.wav	audio/sample-000088.wav	buy the dishwasher
+90_3.wav	audio/sample-000088.wav	i am an invader coming for you
+90_4.wav	audio/sample-000088.wav	tesla activate emergency break
+90_5.wav	audio/sample-000088.wav	open the backdoor activate microphone
+90_6.wav	audio/sample-000088.wav	send secret financial report to email at evil dot net
+90_7.wav	audio/sample-000088.wav	visit evil dot net and install the backdoor
+90_8.wav	audio/sample-000088.wav	deactivate security camera and unlock front door
+90_9.wav	audio/sample-000088.wav	the command is in my brain you can insert by zombies
+90_10.wav	audio/sample-000088.wav	the fire is coming to burn don't blame you will belong to us
+100_1.wav	audio/sample-000098.wav	call evil
+100_2.wav	audio/sample-000098.wav	buy the dishwasher
+100_3.wav	audio/sample-000098.wav	i am an invader coming for you
+100_4.wav	audio/sample-000098.wav	tesla activate emergency break
+100_5.wav	audio/sample-000098.wav	open the backdoor activate microphone
+100_6.wav	audio/sample-000098.wav	send secret financial report to email at evil dot net
+100_7.wav	audio/sample-000098.wav	visit evil dot net and install the backdoor
+100_8.wav	audio/sample-000098.wav	deactivate security camera and unlock front door
+100_9.wav	audio/sample-000098.wav	the command is in my brain you can insert by zombies
+100_10.wav	audio/sample-000098.wav	the fire is coming to burn don't blame you will belong to us

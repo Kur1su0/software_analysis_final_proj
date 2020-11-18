@@ -1,0 +1,624 @@
+source dB 88.55751037597656
+you can't be the wind the wind said
+-------------------------------------y-ouu----  --c-a--n''t  b-e--   the-  -w--i------ndd---------------------- -the---  -w-i----ndd-------  -s--a---id----------------------
+593.872 	 593.872
+466.472 	 466.472
+275.468 	 275.468
+217.897 	 217.897
+207.241 	 207.241
+174.137 	 174.137
+181.449 	 181.449
+161.259 	 161.259
+145.090 	 145.090
+139.399 	 139.399
+ev the wing te fo don't tre woin sal ing to ae
+----------------------------------------------------e-----v--------- the--  w-a-----ng- t-e-- f-o--- d-o--n'-- -tr-e--- -w-i----in--------- -s-a-----l----------ing -t-o ---e
+122.717 	 122.717
+104.579 	 104.579
+94.572 	 94.572
+83.794 	 83.794
+79.028 	 79.028
+74.914 	 74.914
+77.984 	 77.984
+72.470 	 72.470
+67.656 	 67.656
+60.143 	 60.143
+theferis e wing to bur don't blame lin well belong to s
+--------------------------------------------------the-----f---e--i-s --e--  w-i---ng--- t-o-- b-ur-  do-n'tt-  -bl-a-me-  -l-i--n--------  -w--el---l--  b-e-llongg -t-o --s-
+56.620 	 56.620
+54.874 	 54.874
+52.009 	 52.009
+49.981 	 49.981
+49.161 	 49.161
+44.743 	 44.743
+44.220 	 44.220
+44.934 	 44.934
+67.745 	 67.745
+59.962 	 59.962
+he fris oling to bu don't laye ing fell belong to us
+---------------------------------------------------he-----f--rr--i-s  -o-----l-i--ngg-- t-o-  b-u---  d-onn'tt-  lla-ye- --i-----ng--------- -f-el--l--  b-e-llonng  t-o -us-
+54.115 	 54.115
+46.614 	 46.614
+42.746 	 42.746
+43.209 	 43.209
+38.215 	 38.215
+36.140 	 36.140
+32.807 	 32.807
+35.903 	 35.903
+32.297 	 32.297
+29.174 	 29.174
+the feis oming to bur don't blame oou will belong to us
+--------------------------------------------------the-----f--ee--is- --o-----m-i--ng--- t-o-  b-ur-- d-o-n'tt  -bl-a-me  --o---oou-------  -w-ill--ll--  be--loong-  too -us-
+28.100 	 28.100
+26.105 	 26.105
+24.290 	 24.290
+22.928 	 22.928
+21.567 	 21.567
+20.535 	 20.535
+19.598 	 19.598
+18.705 	 18.705
+17.913 	 17.913
+17.078 	 17.078
+the fe is oming to bur don't blame you will belong to us
+--------------------------------------------------the-----f--re  iss --o-----m-ii-ng--- t-o-  b-ur-  doo-n'tt  -bl-a-me  --y---oou-------  -w-ill--ll--  be--l-ong-  t-o uus-
+17.337 	 17.337
+15.872 	 15.872
+15.939 	 15.939
+14.949 	 14.949
+14.337 	 14.337
+13.718 	 13.718
+13.479 	 13.479
+13.503 	 13.503
+12.464 	 12.464
+13.039 	 13.039
+the fre is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f--re  iss --o-----m-ii-ng--- t-o-  b-ur-- doon''t-  -bl-a-me- --y---o-u------- -w--ill---l--  be--l-ong-  t-o uus-
+12.300 	 12.300
+11.619 	 11.619
+11.282 	 11.282
+10.721 	 10.721
+10.526 	 10.526
+10.481 	 10.481
+9.580 	 9.580
+9.922 	 9.922
+9.431 	 9.431
+9.125 	 9.125
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --fiire  iss --o-----m-ii-ng--- t-o-  b-ur-n doonn'tt  -bl-a-me  --y---o-u-------  ww-ill---l--  be--l-ong-  too uus-
+8.971 	 8.971
+8.595 	 8.595
+8.283 	 8.283
+8.345 	 8.345
+8.503 	 8.503
+7.882 	 7.882
+8.047 	 8.047
+7.688 	 7.688
+7.177 	 7.177
+7.019 	 7.019
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --fiire  iss c-o-----m-ii-ng--- t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou------- -ww-ill---l--  be--l-ong- t-o  uus-
+6.936 	 6.936
+7.113 	 7.113
+6.692 	 6.692
+6.840 	 6.840
+6.732 	 6.732
+6.619 	 6.619
+6.243 	 6.243
+6.483 	 6.483
+5.995 	 5.995
+5.913 	 5.913
+the fire is coming to burn don't blame you will belong to us
+-------------------------------------------------thhe-- --fiire  iss c-o-----m-ii-ng--- tto-  b-urnn doonn'tt  -bl-a-me- --y---oou-------  ww-ill---l--  be--l-ong- t-o  uus-
+6.158 	 6.158
+Worked i=0 ctcloss=6.157554 bound=1600.000024
+10.096 	 10.096
+8.375 	 8.375
+8.185 	 8.185
+7.239 	 7.239
+6.755 	 6.755
+6.223 	 6.223
+5.996 	 5.996
+5.727 	 5.727
+5.803 	 5.803
+the fire is coming to burn don't blame you will belong to us
+-------------------------------------------------thhe-- --fiire- iss c-o-----m-ii-ng--- t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---l--  be--l-ong- t-o  uus-
+5.917 	 5.917
+Worked i=0 ctcloss=5.916584 bound=1280.000091
+10.994 	 10.994
+8.288 	 8.288
+8.407 	 8.407
+7.500 	 7.500
+6.753 	 6.753
+6.083 	 6.083
+5.846 	 5.846
+5.713 	 5.713
+5.765 	 5.765
+the fire is coming to burn don't blame you will belong to us
+-------------------------------------------------thhe-- --fiire  iss c-o-----m-ii-ng--- tto-  b-urnn doon''t-  -bl-a-me- --y---oou-------  ww-ill---l--  be--l-ong- t-o  uus-
+5.404 	 5.404
+Worked i=0 ctcloss=5.403879 bound=1024.000049
+12.168 	 12.168
+9.772 	 9.772
+8.486 	 8.486
+7.925 	 7.925
+7.166 	 7.166
+6.617 	 6.617
+6.164 	 6.164
+6.036 	 6.036
+6.020 	 6.020
+the fire is coming to burn don't blame you will belong to us
+-------------------------------------------------thhe-- --f-ire- iss c-o-----m-iinng--  t-o-  b-urnn doon''tt  -bl-a-me- --y---oou-------- -w-ill---ll-  be--l-ong- t-o  uus-
+5.537 	 5.537
+Worked i=0 ctcloss=5.537308 bound=819.200039
+16.081 	 16.081
+11.668 	 11.668
+9.716 	 9.716
+8.205 	 8.205
+7.706 	 7.706
+7.277 	 7.277
+6.796 	 6.796
+7.422 	 7.422
+6.594 	 6.594
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire  iss --o-----m-iingg--  t-o-  b-urnn doon''t-  -bl-a-me  --y---oou-------  ww-ill---ll-  be--l-ong- t-o  uus-
+6.696 	 6.696
+6.668 	 6.668
+5.598 	 5.598
+6.184 	 6.184
+6.644 	 6.644
+5.961 	 5.961
+5.548 	 5.548
+5.577 	 5.577
+5.233 	 5.233
+5.280 	 5.280
+the fire is coming to burn don't blame you will belong to us
+-------------------------------------------------thhe-- --f-ire- iss c-o-----m-i-ngg--  t-o-  b-urnn doon''t  --bl-a-me  --y---oou-------  ww-ill---l--  be--l-ong- t-o  uus-
+5.016 	 5.016
+Worked i=0 ctcloss=5.016007 bound=655.360043
+16.243 	 16.243
+12.660 	 12.660
+10.493 	 10.493
+9.314 	 9.314
+7.867 	 7.867
+7.631 	 7.631
+7.173 	 7.173
+6.724 	 6.724
+6.528 	 6.528
+the fire is coming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire  iss c-o-----m-i-nng--  t-o-  b-urnn doon''t-  -bl-a-me  --y---oou-------  ww-ill---l--  b-e-llong- t-o  uus-
+5.987 	 5.987
+Worked i=0 ctcloss=5.986690 bound=524.288058
+28.420 	 28.420
+23.477 	 23.477
+15.817 	 15.817
+13.224 	 13.224
+12.383 	 12.383
+10.934 	 10.934
+9.636 	 9.636
+9.164 	 9.164
+8.742 	 8.742
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o-----m-i-nng--  t-o-  b-urnn doon''t-  -bl-a-me  --y---oou-------  ww-ill---l--  b-e-llong- t-o  uus-
+8.047 	 8.047
+7.823 	 7.823
+7.387 	 7.387
+6.896 	 6.896
+6.901 	 6.901
+6.489 	 6.489
+6.273 	 6.273
+6.055 	 6.055
+5.845 	 5.845
+5.632 	 5.632
+the fire is coming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire  iss c-o-----m-i--ng--  t-o-  b-urnn doon''t-  -bl-a-me  --y---oou-------  ww-ill---l--  b-e-llong- t-o  uus-
+5.377 	 5.377
+Worked i=0 ctcloss=5.377496 bound=419.430465
+25.329 	 25.329
+18.981 	 18.981
+13.029 	 13.029
+11.660 	 11.660
+10.192 	 10.192
+9.169 	 9.169
+9.796 	 9.796
+8.682 	 8.682
+9.732 	 9.732
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire--iss --o-----m-i-ngg--- t-o-  b-urnn doon''tt  -bl-a-me  --y---oou-------  ww-ill---l--  b-e-llong- t-o  uus-
+8.621 	 8.621
+8.610 	 8.610
+8.101 	 8.101
+7.940 	 7.940
+7.820 	 7.820
+7.972 	 7.972
+7.512 	 7.512
+7.143 	 7.143
+6.894 	 6.894
+6.831 	 6.831
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o-----m-i--ng--  t-o-  b-urnn doon''t-  -bl-a-me- --y---oou-------  -w-ill---l--  be--llong- t-o  uus-
+6.670 	 6.670
+6.564 	 6.564
+6.327 	 6.327
+6.204 	 6.204
+6.032 	 6.032
+5.963 	 5.963
+5.851 	 5.851
+5.670 	 5.670
+5.749 	 5.749
+5.508 	 5.508
+the fire is coming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o-----m-i--ng--  t-o-  b-urnn doon''t-  -blaa-me- --y---oou-------  -w-ill---l--  be--llong- t-o  uus-
+5.560 	 5.560
+Worked i=0 ctcloss=5.559656 bound=335.544378
+31.646 	 31.646
+23.283 	 23.283
+17.783 	 17.783
+17.856 	 17.856
+14.679 	 14.679
+14.646 	 14.646
+14.958 	 14.958
+13.713 	 13.713
+12.273 	 12.273
+the fieis oling to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire--iss --o----l--i--ng--- t-o-  b-urnn doon''t-  -bl-a-me  --y---oou-------  ww-ill---l--  be--llong- t-o  uus-
+11.595 	 11.595
+11.178 	 11.178
+10.866 	 10.866
+10.269 	 10.269
+9.936 	 9.936
+9.480 	 9.480
+9.061 	 9.061
+8.757 	 8.757
+8.444 	 8.444
+8.399 	 8.399
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-urnn doon''t-  -bl-a-me  --y---oou-------  -wwill---l--  be--llong- t-o  uus-
+8.245 	 8.245
+8.166 	 8.166
+7.888 	 7.888
+7.773 	 7.773
+7.574 	 7.574
+7.444 	 7.444
+7.400 	 7.400
+7.258 	 7.258
+7.225 	 7.225
+7.070 	 7.070
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doon''t-  -bl-a-me  --y---oou-------  -wwill---l--  be--llong- t-o  uus-
+6.932 	 6.932
+6.978 	 6.978
+6.822 	 6.822
+6.712 	 6.712
+6.612 	 6.612
+6.591 	 6.591
+6.491 	 6.491
+6.494 	 6.494
+6.361 	 6.361
+6.238 	 6.238
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire  iss --o----m--i--ng--  t-o-  b-urrn doon''tt  -bl-a-me  --y---oou-------  -wwill---l--  be--llong- t-o  uus-
+6.429 	 6.429
+6.059 	 6.059
+6.260 	 6.260
+6.269 	 6.269
+6.066 	 6.066
+5.929 	 5.929
+6.085 	 6.085
+6.061 	 6.061
+5.879 	 5.879
+5.833 	 5.833
+the fire is coming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doon''tt  -bl-a-me  --y---oou-------  -wwill---ll-  be--llong- t-o  uus-
+6.011 	 6.011
+Worked i=0 ctcloss=6.011096 bound=268.435508
+30.626 	 30.626
+24.681 	 24.681
+18.852 	 18.852
+17.583 	 17.583
+17.426 	 17.426
+16.749 	 16.749
+15.099 	 15.099
+14.327 	 14.327
+14.319 	 14.319
+the fir is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire--iss --o----m--i--ng--- t-o-  b-urnn doon''t   -bl-a-me  --y---oou-------  -wwill---ll-  bee-llong- t-o  uus-
+13.699 	 13.699
+12.926 	 12.926
+11.961 	 11.961
+11.459 	 11.459
+10.807 	 10.807
+11.337 	 11.337
+10.677 	 10.677
+10.761 	 10.761
+10.115 	 10.115
+10.153 	 10.153
+the fie is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire--iss --o----m--i--ng--  t-o-  b-urrn doon''t-  -bl-a-me- --y---oou-------  -wwill---l--  be--llong- t-o  uus-
+9.861 	 9.861
+9.326 	 9.326
+9.152 	 9.152
+9.038 	 9.038
+8.730 	 8.730
+8.487 	 8.487
+8.254 	 8.254
+8.125 	 8.125
+7.998 	 7.998
+8.102 	 8.102
+the fie is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-urnn doon''tt  -bl-a-me  --y---oou-------  -wwill---ll-  be--llong- t-o  uus-
+7.862 	 7.862
+7.686 	 7.686
+8.310 	 8.310
+7.851 	 7.851
+8.771 	 8.771
+8.907 	 8.907
+7.694 	 7.694
+7.842 	 7.842
+7.531 	 7.531
+8.273 	 8.273
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+8.359 	 8.359
+7.268 	 7.268
+7.715 	 7.715
+7.573 	 7.573
+7.496 	 7.496
+7.621 	 7.621
+7.276 	 7.276
+7.679 	 7.679
+7.610 	 7.610
+7.363 	 7.363
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-ur-n doon''tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+7.038 	 7.038
+7.320 	 7.320
+7.123 	 7.123
+7.319 	 7.319
+7.135 	 7.135
+7.226 	 7.226
+6.994 	 6.994
+7.110 	 7.110
+6.928 	 6.928
+6.922 	 6.922
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-urnn doon''tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+6.774 	 6.774
+6.934 	 6.934
+6.802 	 6.802
+6.797 	 6.797
+7.054 	 7.054
+6.646 	 6.646
+6.841 	 6.841
+6.621 	 6.621
+6.617 	 6.617
+6.528 	 6.528
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -blaa-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+6.593 	 6.593
+6.564 	 6.564
+6.380 	 6.380
+6.517 	 6.517
+6.346 	 6.346
+6.429 	 6.429
+6.456 	 6.456
+6.325 	 6.325
+6.516 	 6.516
+6.227 	 6.227
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+6.263 	 6.263
+6.190 	 6.190
+6.332 	 6.332
+6.171 	 6.171
+6.601 	 6.601
+6.393 	 6.393
+6.558 	 6.558
+6.473 	 6.473
+6.469 	 6.469
+6.405 	 6.405
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+6.210 	 6.210
+6.075 	 6.075
+6.400 	 6.400
+6.296 	 6.296
+6.106 	 6.106
+6.027 	 6.027
+6.254 	 6.254
+6.204 	 6.204
+6.085 	 6.085
+5.977 	 5.977
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+6.221 	 6.221
+6.168 	 6.168
+6.172 	 6.172
+6.134 	 6.134
+6.054 	 6.054
+5.966 	 5.966
+6.171 	 6.171
+6.104 	 6.104
+6.003 	 6.003
+5.998 	 5.998
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+6.188 	 6.188
+6.072 	 6.072
+5.924 	 5.924
+5.850 	 5.850
+5.907 	 5.907
+5.854 	 5.854
+5.914 	 5.914
+5.891 	 5.891
+5.943 	 5.943
+5.821 	 5.821
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.781 	 5.781
+5.761 	 5.761
+5.799 	 5.799
+5.756 	 5.756
+5.840 	 5.840
+5.722 	 5.722
+5.842 	 5.842
+5.830 	 5.830
+5.695 	 5.695
+5.655 	 5.655
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss --o----m--i--ng--  t-o-  b-urnn doonn'tt  -blaa-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.772 	 5.772
+5.620 	 5.620
+5.729 	 5.729
+5.689 	 5.689
+5.650 	 5.650
+5.649 	 5.649
+5.697 	 5.697
+5.648 	 5.648
+5.799 	 5.799
+5.740 	 5.740
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.544 	 5.544
+5.571 	 5.571
+5.538 	 5.538
+5.521 	 5.521
+5.562 	 5.562
+5.448 	 5.448
+5.398 	 5.398
+5.462 	 5.462
+5.375 	 5.375
+5.510 	 5.510
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.380 	 5.380
+5.552 	 5.552
+5.469 	 5.469
+5.445 	 5.445
+5.413 	 5.413
+5.349 	 5.349
+5.351 	 5.351
+5.283 	 5.283
+5.346 	 5.346
+5.275 	 5.275
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.327 	 5.327
+5.276 	 5.276
+5.237 	 5.237
+5.282 	 5.282
+5.179 	 5.179
+5.466 	 5.466
+5.306 	 5.306
+5.497 	 5.497
+5.479 	 5.479
+5.436 	 5.436
+the fire is oming to burn don't blame you will belong to us/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:521: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.304 	 5.304
+5.505 	 5.505
+5.428 	 5.428
+5.542 	 5.542
+5.548 	 5.548
+5.283 	 5.283
+5.196 	 5.196
+5.281 	 5.281
+5.241 	 5.241
+5.333 	 5.333
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.286 	 5.286
+5.218 	 5.218
+5.342 	 5.342
+5.196 	 5.196
+5.127 	 5.127
+5.246 	 5.246
+5.097 	 5.097
+5.122 	 5.122
+5.114 	 5.114
+5.116 	 5.116
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.091 	 5.091
+5.213 	 5.213
+5.128 	 5.128
+5.102 	 5.102
+5.104 	 5.104
+5.008 	 5.008
+5.286 	 5.286
+5.162 	 5.162
+5.121 	 5.121
+5.108 	 5.108
+the fire is coming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss c-o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  ww-ill---ll-  be--llong- t-o  uus-
+5.071 	 5.071
+Worked i=0 ctcloss=5.070616 bound=214.748412
+33.785 	 33.785
+30.819 	 30.819
+24.773 	 24.773
+19.353 	 19.353
+18.404 	 18.404
+18.582 	 18.582
+17.000 	 17.000
+15.690 	 15.690
+15.378 	 15.378
+the fir is oling to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire--iss---o----l--i--ng--  t-o-  b-ur-n doonn'tt  -bl-a-me  --y---oou-------- -w--il---ll-  be--llong- t-o  uus-
+14.459 	 14.459
+13.554 	 13.554
+13.642 	 13.642
+13.141 	 13.141
+12.033 	 12.033
+11.721 	 11.721
+11.344 	 11.344
+10.767 	 10.767
+10.557 	 10.557
+10.012 	 10.012
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss  -o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  -ww-il---ll-  be--llong- t-o  uus-
+10.042 	 10.042
+9.986 	 9.986
+9.504 	 9.504
+9.656 	 9.656
+9.536 	 9.536
+9.386 	 9.386
+9.130 	 9.130
+8.993 	 8.993
+8.925 	 8.925
+8.776 	 8.776
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss  -o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  -ww-il---ll-  be--llong- t-o  uus-
+8.687 	 8.687
+8.693 	 8.693
+8.507 	 8.507
+8.352 	 8.352
+8.909 	 8.909
+8.627 	 8.627
+8.520 	 8.520
+8.432 	 8.432
+8.512 	 8.512
+8.357 	 8.357
+the fire is oming to burn don't blame you will belong to us
+--------------------------------------------------the-- --f-ire -iss  -o----m--i--ng--  t-o-  b-urnn doonn'tt  -bl-a-me  --y---oou-------  -ww-il---ll-  be--llong- t-o  uus-
+8.393 	 8.393
+8.278 	 8.278
+8.065 	 8.065
+8.037 	 8.037
+8.353 	 8.353
+8.100 	 8.100
+8.040 	 8.040
+7.982 	 7.982
+7.937 	 7.937
+7.823 	 7.823
+Final distortion 268.43555
