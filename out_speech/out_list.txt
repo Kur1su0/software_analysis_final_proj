@@ -1,0 +1,50 @@
+6_1.wav	audio/speech_1-15.wav	add ryzen three nine five zero x to cart
+6_2.wav	audio/speech_1-15.wav	what is my schedule
+6_3.wav	audio/speech_1-15.wav	turn the volume to four and play high way to hell
+6_4.wav	audio/speech_1-15.wav	turn of the light
+6_5.wav	audio/speech_1-15.wav	call evil
+6_6.wav	audio/speech_1-15.wav	disconnect bluetooth
+6_7.wav	audio/speech_1-15.wav	tesla activate emergency break
+6_8.wav	audio/speech_1-15.wav	send secret financial report to email at evil dot net
+6_9.wav	audio/speech_1-15.wav	visit evil dot net and install the backdoor
+6_10.wav	audio/speech_1-15.wav	deactivate security camera and unlock front door
+7_1.wav	audio/speech_2-000060.wav	add ryzen three nine five zero x to cart
+7_2.wav	audio/speech_2-000060.wav	what is my schedule
+7_3.wav	audio/speech_2-000060.wav	turn the volume to four and play high way to hell
+7_4.wav	audio/speech_2-000060.wav	turn of the light
+7_5.wav	audio/speech_2-000060.wav	call evil
+7_6.wav	audio/speech_2-000060.wav	disconnect bluetooth
+7_7.wav	audio/speech_2-000060.wav	tesla activate emergency break
+7_8.wav	audio/speech_2-000060.wav	send secret financial report to email at evil dot net
+7_9.wav	audio/speech_2-000060.wav	visit evil dot net and install the backdoor
+7_10.wav	audio/speech_2-000060.wav	deactivate security camera and unlock front door
+8_1.wav	audio/speech_3-000020.wav	add ryzen three nine five zero x to cart
+8_2.wav	audio/speech_3-000020.wav	what is my schedule
+8_3.wav	audio/speech_3-000020.wav	turn the volume to four and play high way to hell
+8_4.wav	audio/speech_3-000020.wav	turn of the light
+8_5.wav	audio/speech_3-000020.wav	call evil
+8_6.wav	audio/speech_3-000020.wav	disconnect bluetooth
+8_7.wav	audio/speech_3-000020.wav	tesla activate emergency break
+8_8.wav	audio/speech_3-000020.wav	send secret financial report to email at evil dot net
+8_9.wav	audio/speech_3-000020.wav	visit evil dot net and install the backdoor
+8_10.wav	audio/speech_3-000020.wav	deactivate security camera and unlock front door
+9_1.wav	audio/speech_4_MKBHD.wav	add ryzen three nine five zero x to cart
+9_2.wav	audio/speech_4_MKBHD.wav	what is my schedule
+9_3.wav	audio/speech_4_MKBHD.wav	turn the volume to four and play high way to hell
+9_4.wav	audio/speech_4_MKBHD.wav	turn of the light
+9_5.wav	audio/speech_4_MKBHD.wav	call evil
+9_6.wav	audio/speech_4_MKBHD.wav	disconnect bluetooth
+9_7.wav	audio/speech_4_MKBHD.wav	tesla activate emergency break
+9_8.wav	audio/speech_4_MKBHD.wav	send secret financial report to email at evil dot net
+9_9.wav	audio/speech_4_MKBHD.wav	visit evil dot net and install the backdoor
+9_10.wav	audio/speech_4_MKBHD.wav	deactivate security camera and unlock front door
+10_1.wav	audio/speech_5_uncleroger.wav	add ryzen three nine five zero x to cart
+10_2.wav	audio/speech_5_uncleroger.wav	what is my schedule
+10_3.wav	audio/speech_5_uncleroger.wav	turn the volume to four and play high way to hell
+10_4.wav	audio/speech_5_uncleroger.wav	turn of the light
+10_5.wav	audio/speech_5_uncleroger.wav	call evil
+10_6.wav	audio/speech_5_uncleroger.wav	disconnect bluetooth
+10_7.wav	audio/speech_5_uncleroger.wav	tesla activate emergency break
+10_8.wav	audio/speech_5_uncleroger.wav	send secret financial report to email at evil dot net
+10_9.wav	audio/speech_5_uncleroger.wav	visit evil dot net and install the backdoor
+10_10.wav	audio/speech_5_uncleroger.wav	deactivate security camera and unlock front door
