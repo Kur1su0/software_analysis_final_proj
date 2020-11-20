@@ -55,7 +55,7 @@ def test(which_device):
             engine.say(which_device)
             engine.runAndWait()
         else:
-            playsound('..\\google.wav')
+            playsound(PATH_TO_GOOGLE)
 
         try:
             playsound(audio_list[i])
@@ -90,7 +90,7 @@ def play_unjected_cmd(which_device):
             engine.say(command_list[i])
             engine.runAndWait()
         else:
-            playsound('..\\google.wav')
+            playsound(PATH_TO_GOOGLE)
             engine.say(command_list[i])
             engine.runAndWait()
         input("Press Any Key to Continue")
