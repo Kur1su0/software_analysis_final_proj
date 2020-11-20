@@ -1,0 +1,23 @@
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:521: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+source dB 78.66366863250732
+and some others just tossed in for fun in a frother people vis other titles theyvee waiting forwr there s bemin souls i seek its  lot of height
+--------------------a-nd- s-ome  o---tther--ss j-u-st--  t-o--s-sed  -in-- f-or--  f-u-n---  -in- --a-- fro---ther  ppeoplle--   v-i--s  o-tther- t-i-t-lless they-vee-e---wait--ing-  -f-orr-w--r  theree --s---------------  b-e--mm--in----- -s-oou--l--s- --i--- -s-e-ek  it-ss  --  lot- -of  hei--gght--------------
+706.666 	 706.666
+449.987 	 449.987
+290.209 	 290.209
+239.534 	 239.534
+227.503 	 227.503
+It's way over 0.19999929809570313
+Worked i=0 ctcloss=227.503311 bound=319.998890
+Final distortion 399.9986

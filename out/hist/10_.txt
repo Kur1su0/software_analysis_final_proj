@@ -1,0 +1,23 @@
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:521: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/u/zw9ga/.conda/envs/ml/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+source dB 70.66272735595703
+why you maagure wal o with cup does yus fhingoting a you putd ripe put
+----------------------------------------whhy------  yyou-------  -m-a----g------u-rre-   -----w-a--l------ ---o---- wwith-------  --cc-u---p--------------  -dooeess---  -yuu----s------  -f--i-------------ng------------o-----------t--i-ngg-------- ---a--- -you-- -p-uutd--- -rr--i----pe- -pu--
+320.819 	 320.819
+227.654 	 227.654
+179.987 	 179.987
+137.883 	 137.883
+131.758 	 131.758
+It's way over 0.19999929809570313
+Worked i=0 ctcloss=131.758087 bound=319.998890
+Final distortion 399.9986

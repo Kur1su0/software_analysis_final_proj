@@ -93,7 +93,9 @@ def play_unjected_cmd(which_device):
             playsound(PATH_TO_GOOGLE)
             engine.say(command_list[i])
             engine.runAndWait()
-        input("Press Any Key to Continue")
+        usr_input=input("Press Any Key to Continue[q to quit]")
+        if usr_input == 'q':
+            break
 
 def sanity_check(which_device, which_test):
  if which_device != "google" and which_device != "alexa":
