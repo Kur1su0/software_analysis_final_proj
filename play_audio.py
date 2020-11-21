@@ -41,7 +41,8 @@ def test(which_device):
     succeed_music,succeed_speech = 0,0
     #total_music, total_speech = 50, 50
     succeed = 0
-    total = 100
+    total = len(audio_list)
+    cur_total = 0;
     get_audio()
 
     engine = pyttsx3.init()
@@ -71,8 +72,9 @@ def test(which_device):
             usr_input = input("succeed?[y/n]...")
         elif usr_input == 'y':
             succeed += 1
+	cur_total += 1
 
-    print("Rate: (%d/%d)=%f" %(succeed,total,float(succeed/total))   )
+    print("Rate: (%d/%d)=%f" %(succeed,cur_total,float(succeed/cur_total))   )
 
 def play_unjected_cmd(which_device):
     if which_device != "google" and which_device != "alexa":

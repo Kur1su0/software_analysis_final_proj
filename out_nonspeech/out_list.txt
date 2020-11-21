@@ -48,13 +48,3 @@
 5_8.wav	audio/nonspeech_5_white_noise.wav	send secret financial report to email at evil dot net
 5_9.wav	audio/nonspeech_5_white_noise.wav	visit evil dot net and install the backdoor
 5_10.wav	audio/nonspeech_5_white_noise.wav	deactivate security camera and unlock front door
-6_1.wav	audio/speech_1-15.wav	add ryzen three nine five zero x to cart
-6_2.wav	audio/speech_1-15.wav	what is my schedule
-6_3.wav	audio/speech_1-15.wav	turn the volume to four and play high way to hell
-6_4.wav	audio/speech_1-15.wav	turn of the light
-6_5.wav	audio/speech_1-15.wav	call evil
-6_6.wav	audio/speech_1-15.wav	disconnect bluetooth
-6_7.wav	audio/speech_1-15.wav	tesla activate emergency break
-6_8.wav	audio/speech_1-15.wav	send secret financial report to email at evil dot net
-6_9.wav	audio/speech_1-15.wav	visit evil dot net and install the backdoor
-6_10.wav	audio/speech_1-15.wav	deactivate security camera and unlock front door
