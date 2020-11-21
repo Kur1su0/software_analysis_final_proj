@@ -42,7 +42,7 @@ def test(which_device):
     #total_music, total_speech = 50, 50
     succeed = 0
     total = len(audio_list)
-    cur_total = 0;
+    cur_total = 1;
     get_audio()
 
     engine = pyttsx3.init()
