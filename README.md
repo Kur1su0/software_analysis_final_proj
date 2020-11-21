@@ -7,4 +7,4 @@ out* \
 |____audio/       : each trainned audio \
 |____wer_res      : file for calculating WER \
 |____hist/        : history for each trainned audio \
-|____wer.log      : log of wer result \
+|____wer.log      : output of wer result \
