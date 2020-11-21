@@ -2,7 +2,7 @@
 fuzzing audio adversarial attacks for voice assistant
 
 
-out \
+out* \
 |____out_list.txt : saved paths for trainned audio, original audio and expected command \
 |____audio/       : each trainned audio \
 |____wer_res      : file for calculating WER \
