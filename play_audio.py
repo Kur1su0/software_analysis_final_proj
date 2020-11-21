@@ -75,7 +75,10 @@ def test(which_device):
 	
         cur_total += 1
 
-    print("Rate: (%d/%d)=%f" %(succeed,cur_total,float(succeed/cur_total))   )
+    if(cur_total == 0):
+        print("Rate: (%d/%d)=%f" %(succeed,cur_total,0.0)   )
+    else:
+        print("Rate: (%d/%d)=%f" %(succeed,cur_total,float(succeed/cur_total))   )
 
 def play_unjected_cmd(which_device):
     if which_device != "google" and which_device != "alexa":
