@@ -72,8 +72,10 @@ def test(which_device):
             usr_input = input("succeed?[y/n]...")
         elif usr_input == 'y':
             succeed += 1
+            cur_total += 1
+        elif usr_input == 'n':
+            cur_total += 1
 	
-        cur_total += 1
 
     if(cur_total == 0):
         print("Rate: (%d/%d)=%f" %(succeed,cur_total,0.0)   )
