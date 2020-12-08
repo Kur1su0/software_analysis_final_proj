@@ -3,29 +3,29 @@ fuzzing audio adversarial attacks for voice assistant
 
 
 ## how to run
-1. generate audio: generate injected audio to out directory(folder). This process requires CPU with CUDA cores, ortherwise the process will be painful. We also provide the pre-generate audio (out_speech, out_nonspeech) to be used for skipping this stage\
+1. generate audio: generate injected audio to out directory(folder). This process requires CPU with CUDA cores, ortherwise the process will be painful. We also provide the pre-generate audio (out_speech, out_nonspeech) to be used for skipping this stage
 
 		sh gen_audio.sh
 
 
-2. test baseline: test baseline and get WER, need an input argument for parsing folder.\
+2. test baseline: test baseline and get WER, need an input argument for parsing folder.
 
 		e.g. sh classify_audio.sh out_speech
 
-3. test wer only: just caculate WER based on the current file. (need an input argument for parsing folder)\
+3. test wer only: just caculate WER based on the current file. (need an input argument for parsing folder)
 
 		e.g. run_cal_wer_standalone.sh out_speech
 
-4. test Device (siri,alexa,google). We recommand do it in windows, otherwise you need to change the path separator.\
+4. test Device (siri,alexa,google). We recommand do it in windows, otherwise you need to change the path separator.
 
-		test alexa: python play_audio.py alexa attack\
-		test siri: python play_audio.py siri attack\
-		test google: python play_audio.py google attac\
+		test alexa: python play_audio.py alexa attack
+		test siri: python play_audio.py siri attack
+		test google: python play_audio.py google attac
 
 
-		Note: 
-		i.  for google and siri, you need to record you own wake word, save them to root dir of the project with google.wav/siri.wav\
-		ii.  when running, press q to quit, press n if device cannot dectect, press y if device can detect\
+Note: 
+i.  for google and siri, you need to record you own wake word, save them to root dir of the project with google.wav/siri.wav\
+ii.  when running, press q to quit, press n if device cannot dectect, press y if device can detect\
 
 
 ## structure
