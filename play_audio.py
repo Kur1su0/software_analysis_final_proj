@@ -54,7 +54,7 @@ def test(which_device):
     for i in range(len(audio_list)):
         print( "[",i+1,"/",len(audio_list),"done - cur secceed:", succeed, "]", "expect --- ",command_list[i])
 
-	if which_device == "alexa":
+        if which_device == "alexa":
             engine.say(which_device)
             engine.runAndWait()
         else if which_device =="siri":
