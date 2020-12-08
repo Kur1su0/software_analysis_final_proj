@@ -47,7 +47,12 @@ fi
 #update audio_list
 find audio/* > audio_list.txt
 
+# rm old out_list
+mv out/out_list.txt out/out_list.bak
+
 cd ${TOOL_PATH}
+
+
 #change 10 if number of command is not equal to 10
 for i in {1..10}
 do
