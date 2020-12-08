@@ -1,3 +1,7 @@
+#The script is to test the combined audio and get the WER for right-branch only.
+
+# need argument for out (folder generated during gen_audio process), we provided 2 sample folders with pre-generated audio in case you don't have a decent GPU for tranning process.
+
 
 if [ $# -ne 1 ]
 then 
@@ -45,6 +49,12 @@ while [ $i -le $END ]; do
 	echo -e "$i done: $audio_file\t$exp_cmd saved to ../${OUT_PATH}/wer.log"
 	i=$(($i+1))
 done
+
+cd ../
+echo "Cal WER..."
+python3 cal_wer.py $OUT_PATH/wer.log |tee $OUT_PATH/wer_res 
+
+
 echo "All done!"
 		
 

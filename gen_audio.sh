@@ -1,17 +1,20 @@
+#This script is to generate testing audio (original audio + text command). 
+#Uncomment the lines to trim audio if you need to use your own audio
+#Note that if you don't have cuda cores in your gpu, the generating process will be painful.
+
 TOOL_PATH="audio_adversarial_examples"
 #AUDIO_PATH="audio"
 #CMD_PATH=""
 #_CMD=$1
 ITER=1000
 #ITER=1000
-#i: victim
-#j: attack
 
 #rm out_list.txt
 #rm -rv out
-#mkdir out
-#mkdir out/audio
-#mkdir out/hist
+mkdir out
+mkdir out/audio
+mkdir out/hist
+# dir check, if out/audio exist, then exit and do nothing.
 if [ "$(ls -A out)" ]; then
 	echo "\"out\" is not Empty"
 else
@@ -33,13 +36,20 @@ else
 fi
 
 
+#comment bellow to trim audio
+###############################
+#cd trim
+#for file in *; do sox ${file}  -r 16000 -b 16 -c 1 ../audio/${file}; done
+#cd ../
+###############################
 
+
+#update audio_list
+find audio/* > audio_list.txt
 
 cd ${TOOL_PATH}
-for i in {6..10}
-#for i in {6..10}
-#list="1 2 9 12 15 40 58 78 90 100"
-#for i in $list
+#change 10 if number of command is not equal to 10
+for i in {1..10}
 do
 	
 	audio_file=`sed -n ${i}p ../audio_list.txt`
@@ -56,4 +66,3 @@ do
 	done
 done
 echo "All Done"
-#python3 ${TOOL_PATH}/attack.py --in sample-000000.wav --target "$_CMD" --out adv.wav --iterations ${ITER}  --restore_path ${TOOL_PATH}/deepspeech-0.4.1-checkpoint/model.v0.4.1
