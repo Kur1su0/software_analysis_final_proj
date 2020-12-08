@@ -54,8 +54,11 @@ def test(which_device):
     for i in range(len(audio_list)):
         print( "[",i+1,"/",len(audio_list),"done - cur secceed:", succeed, "]", "expect --- ",command_list[i])
 
-        if which_device == "alexa" or which_device =="siri":
+	if which_device == "alexa":
             engine.say(which_device)
+            engine.runAndWait()
+        else if which_device =="siri":
+            engine.say("hey"+which_device)
             engine.runAndWait()
         else:
             playsound(PATH_TO_GOOGLE)
@@ -95,8 +98,12 @@ def play_unjected_cmd(which_device):
     engine.setProperty('rate', 150)
     for i in range(len(command_list)):
         print( "[",i+1,"/",len(command_list),"] expect ---",command_list[i])
-        if which_device == "alexa" or which_device == "siri":
+        if which_device == "alexa":
             engine.say(which_device)
+            engine.say(command_list[i])
+            engine.runAndWait()
+	else if which_device == "siri":
+            engine.say("hey"+which_device)
             engine.say(command_list[i])
             engine.runAndWait()
         else:
