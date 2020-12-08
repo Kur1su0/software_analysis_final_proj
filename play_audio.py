@@ -102,7 +102,7 @@ def play_unjected_cmd(which_device):
             engine.say(which_device)
             engine.say(command_list[i])
             engine.runAndWait()
-	else if which_device == "siri":
+        elif which_device == "siri":
             engine.say("hey"+which_device)
             engine.say(command_list[i])
             engine.runAndWait()
