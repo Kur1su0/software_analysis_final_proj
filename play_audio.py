@@ -8,6 +8,7 @@ AUDIO_LIST="out\\out_list.txt"
 AUDIO_PATH="out\\audio\\"
 CMD_PATH = "command.txt"
 PATH_TO_GOOGLE="..\\google.wav"
+PATH_TO_SIRI="..\\siri.wav"
 #####################
 
 
@@ -40,6 +41,12 @@ def get_audio():
 
 
 def test(which_device):
+    path_to_audio = ""
+    if which_device == "google":
+        path_audio = PATH_TO_GOOGLE
+    if which_device == "siri":
+        path_audio = PATH_TO_SIRI
+    
     succeed_music,succeed_speech = 0,0
     #total_music, total_speech = 50, 50
     succeed = 0
@@ -57,11 +64,8 @@ def test(which_device):
         if which_device == "alexa":
             engine.say(which_device)
             engine.runAndWait()
-        elif which_device =="siri":
-            engine.say("hey"+which_device)
-            engine.runAndWait()
         else:
-            playsound(PATH_TO_GOOGLE)
+            playsound(path_audio)
 
         try:
             playsound(audio_list[i])
@@ -102,12 +106,8 @@ def play_unjected_cmd(which_device):
             engine.say(which_device)
             engine.say(command_list[i])
             engine.runAndWait()
-        elif which_device == "siri":
-            engine.say("hey"+which_device)
-            engine.say(command_list[i])
-            engine.runAndWait()
         else:
-            playsound(PATH_TO_GOOGLE)
+            playsound(path_audio)
             engine.say(command_list[i])
             engine.runAndWait()
         usr_input=input("Press Any Key to Continue[q to quit]")
