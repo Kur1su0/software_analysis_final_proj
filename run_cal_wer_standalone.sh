@@ -1,4 +1,3 @@
-$1=$OUT_PATH
 
 if [ $# -ne 1 ]
 then 
@@ -6,4 +5,6 @@ then
 	exit
 fi
 
-python3 cal_wer.py $OUT_PATH/wer.log |tee $OUT_PATH/wer_res                                                                                                                                                                                                                            
+OUT_PATH=$1
+echo "$OUT_PATH"
+python3 cal_wer.py ${OUT_PATH}/wer.log |tee ${OUT_PATH}/wer_res.output

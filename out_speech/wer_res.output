@@ -1,0 +1,18 @@
+total num:  4
+REF: add ryzen three nine five zero x to cart 
+HYP: add ryzen three nine five zero x to cart 
+EVA:                                          
+WER: 0.00%
+REF: what is my schedule 
+HYP: what is my scheduli 
+EVA:            S        
+WER: 25.00%
+REF: turn the volume to four and play high way to hell 
+HYP: tun  the volume to four and play high way to hell 
+EVA: S                                                 
+WER: 9.09%
+REF: turn of the  light 
+HYP:         call evil  
+EVA: D    D  S    S     
+WER: 100.00%
+AVG:	 0.3352272727272727
