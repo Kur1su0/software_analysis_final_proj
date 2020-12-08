@@ -23,9 +23,9 @@ fuzzing audio adversarial attacks for voice assistant
 		test google: python play_audio.py google attac
 
 
-Note: 
+Note:\
 i.  for google and siri, you need to record you own wake word, save them to root dir of the project with google.wav/siri.wav\
-ii.  when running, press q to quit, press n if device cannot dectect, press y if device can detect\
+ii.  when running, press q to quit, press n if device cannot dectect, press y if device can detect
 
 
 ## structure
