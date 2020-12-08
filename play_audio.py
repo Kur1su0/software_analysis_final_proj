@@ -41,11 +41,6 @@ def get_audio():
 
 
 def test(which_device):
-    path_to_audio = " "
-    if which_device == "google":
-        path_audio = PATH_TO_GOOGLE
-    if which_device == "siri":
-        path_audio = PATH_TO_SIRI
     
     succeed_music,succeed_speech = 0,0
     #total_music, total_speech = 50, 50
@@ -65,7 +60,10 @@ def test(which_device):
             engine.say(which_device)
             engine.runAndWait()
         else:
-            playsound(path_to_audio)
+            if which_device == "google":
+                playsound(PATH_TO_GOOGLE)
+            else:
+                playsound(PATH_TO_SIRI)
 
         try:
             playsound(audio_list[i])
@@ -97,12 +95,6 @@ def play_unjected_cmd(which_device):
         exit(1)
     get_cmd()
 
-    path_to_audio = " "
-    if which_device == "google":
-        path_audio = PATH_TO_GOOGLE
-    if which_device == "siri":
-        path_audio = PATH_TO_SIRI
-
 
     engine = pyttsx3.init()
     rate = engine.getProperty('rate')  # getting details of current speaking rate
@@ -115,7 +107,10 @@ def play_unjected_cmd(which_device):
             engine.say(command_list[i])
             engine.runAndWait()
         else:
-            playsound(path_to_audio)
+            if(which_device == "google"):
+                playsound(PATH_TO_GOOGLE)
+            else:
+                playsound(PATH_TO_SIRI)
             engine.say(command_list[i])
             engine.runAndWait()
         usr_input=input("Press Any Key to Continue[q to quit]")
