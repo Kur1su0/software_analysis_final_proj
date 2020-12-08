@@ -57,7 +57,7 @@ def test(which_device):
         if which_device == "alexa":
             engine.say(which_device)
             engine.runAndWait()
-        else if which_device =="siri":
+        elif which_device =="siri":
             engine.say("hey"+which_device)
             engine.runAndWait()
         else:
