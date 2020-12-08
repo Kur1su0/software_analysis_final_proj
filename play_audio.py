@@ -124,7 +124,7 @@ def sanity_check(which_device, which_test):
 def main():
     if len(sys.argv) !=3:
         print("wrong args, need 2 args")
-	exit(1)
+        exit(1)
     which_device = sys.argv[1]
     which_test =sys.argv[2]
     sanity_check(which_device,which_test)
