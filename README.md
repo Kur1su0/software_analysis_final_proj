@@ -25,7 +25,7 @@ fuzzing audio adversarial attacks for voice assistant
 
 		Note:
 		
-		i.  for google and siri, you need to record you own wake word, save them to root dir of the project with google.wav/siri.wav\
+		i.  for google and siri, you need to record you own wake word, save them to root dir of the project with google.wav/siri.wav
 		ii.  when running, press q to quit, press n if device cannot dectect, press y if device can detect
 
 
