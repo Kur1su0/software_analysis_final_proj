@@ -41,7 +41,7 @@ def get_audio():
 
 
 def test(which_device):
-    path_to_audio = ""
+    path_to_audio = " "
     if which_device == "google":
         path_audio = PATH_TO_GOOGLE
     if which_device == "siri":
@@ -97,7 +97,7 @@ def play_unjected_cmd(which_device):
         exit(1)
     get_cmd()
 
-    path_to_audio = ""
+    path_to_audio = " "
     if which_device == "google":
         path_audio = PATH_TO_GOOGLE
     if which_device == "siri":
