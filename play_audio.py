@@ -7,8 +7,8 @@ from playsound import playsound
 AUDIO_LIST="out\\out_list.txt"
 AUDIO_PATH="out\\audio\\"
 CMD_PATH = "command.txt"
-PATH_TO_GOOGLE="..\\google.wav"
-PATH_TO_SIRI="..\\siri.wav"
+PATH_TO_GOOGLE="google.wav"
+PATH_TO_SIRI="siri.wav"
 #####################
 
 
