@@ -3,7 +3,7 @@ fuzzing audio adversarial attacks for voice assistant
 
 
 ## how to run
-1. generate audio: generate injected audio to out directory(folder). This process requires CPU with CUDA cores, ortherwise the process will be painful. We also provide the pre-generate audio (out_speech, out_nonspeech) to be used for skipping this stage
+1. generate audio: generate injected audio to out directory(folder). This process requires GPU with CUDA cores, ortherwise the process will be painful. We also provide the pre-generate audio (out_speech, out_nonspeech) to be used for skipping this stage
 
 		sh gen_audio.sh
 
